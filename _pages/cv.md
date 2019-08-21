@@ -11,7 +11,8 @@ redirect_from:
 
 ![alt text](/images/cv.jpg "Logo Title Text 1")
 
-Education
+[comment]: #
+(Education
 ======
 * B.Tech. in Electronics & Communication, Manipal Institute of Technology, 2019
 
@@ -33,8 +34,6 @@ Work experience
   * Supervisor: Dr. P.B. Sujit
   * Worked on a crop and weed plant segmentation model to aid precision agriculture.
 
-
-  
 Skills
 ======
 * Skill 1
@@ -65,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+)
