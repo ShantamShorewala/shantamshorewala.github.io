@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Shantam Shorewala"
+title                    : "Shantam Shorewala"
 title_separator          : #"-"
 name                     : &name "Your Name"
 description              : &description "Aspiring roboticist interested in developing socially relevant solutions."
