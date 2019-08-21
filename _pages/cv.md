@@ -17,18 +17,19 @@ Work experience
 ======
 * July 2019 - Present : Research Associate
   * Autonomous Robotics Lab, IIT Delhi
-  * Duties included: Merging pull requests
   * Supervisor: Dr. Subir K. Saha
+  * Working on a project to determine and improve the repeatibility of a mobile manipulator.
 
 * January - July 2019 : Project Intern
   * RBCCPS, IISc
-  * Duties included: Merging pull requests
   * Supervisor: Dr. Raghu Krishnapuram
+  * Developed a computer vision system to model traffic flow on Indian roads from a monocular camera.
+  * Part of the vision and ML team for MBZ International Robotics Challenge - worked on detection and tracking of a known target in a dynamic environment. 
   
 * May - July 2018 : Research Intern
   * IIIT, Delhi
-  * Duties included: Tagging issues
   * Supervisor: Dr. P.B. Sujit
+  * Worked on a crop and weed plant segmentation model to aid precision agriculture.
 
 
   
