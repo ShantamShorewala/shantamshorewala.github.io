@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electronics & Communication, Manipal Institute of Technology, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
+* July 2019 - Present : Research Associate
+  * Autonomous Robotics Lab, IIT Delhi
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr. Subir K. Saha
+
+* January - July 2019 : Project Intern
+  * RBCCPS, IISc
+  * Duties included: Merging pull requests
+  * Supervisor: Dr. Raghu Krishnapuram
+  
+* May - July 2018 : Research Intern
+  * IIIT, Delhi
+  * Duties included: Tagging issues
+  * Supervisor: Dr. P.B. Sujit
+
+
   
 Skills
 ======
