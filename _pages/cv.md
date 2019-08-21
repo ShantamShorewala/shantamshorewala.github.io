@@ -11,7 +11,9 @@ redirect_from:
 
 ![alt text](/images/cv.jpg "Logo Title Text 1")
 
-[comment]: #
+
+{% comment %} 
+
 (Education
 ======
 * B.Tech. in Electronics & Communication, Manipal Institute of Technology, 2019
@@ -64,4 +66,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-)
+{% endcomment %} 
