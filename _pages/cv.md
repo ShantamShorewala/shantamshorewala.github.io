@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![alt text](images/index.png "Logo Title Text 1")
+
 Education
 ======
 * B.Tech. in Electronics & Communication, Manipal Institute of Technology, 2019
