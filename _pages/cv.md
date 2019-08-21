@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![alt text](images/index.png "Logo Title Text 1")
+![alt text](/images/index.png "Logo Title Text 1")
 
 Education
 ======
