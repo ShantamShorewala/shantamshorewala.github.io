@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-![alt text](/images/0001.jpg 0002.jpg "Logo Title Text 1")
+![alt text](/images/0001.jpg "Logo Title Text 1")
+![alt text](/images/0002.jpg "Logo Title Text 1")
 
 
 {% comment %} 
