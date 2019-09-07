@@ -5,7 +5,7 @@ Vision (WACV) 2020</i>."
 collection: publications
 permalink: 
 excerpt: 
-date: 
+date: 2020-20-03
 venue: 
 paperurl: 
 citation: 
