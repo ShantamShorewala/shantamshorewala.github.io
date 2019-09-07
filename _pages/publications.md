@@ -24,6 +24,6 @@ Navigation System for Exploratory Rovers. In <i>International Conference on Inno
 Computer Vision 2020, Jaipur, India</i>. 
 
 
-* <b>[Under Review]</b>P. Rao, <b>S. Shorewala</b>, A. Puri, N. Sharma, P. Singh, S. Srinivasan, A. Sharma and R. Krishnapuram. A Traffic Analytics Architecture and Dataset for Indian Roads Using a Monocular Surveillance Camera Network. In <i>ACM India Joint International Conference on Data Sciences and Management of Data (7th ACM iKDD CoDS and 25th COMAD), Kolkata, India</i>. 
+* <b>[Under Review]</b> P. Rao, <b>S. Shorewala</b>, A. Puri, N. Sharma, P. Singh, S. Srinivasan, A. Sharma and R. Krishnapuram. A Traffic Analytics Architecture and Dataset for Indian Roads Using a Monocular Surveillance Camera Network. In <i>ACM India Joint International Conference on Data Sciences and Management of Data (7th ACM iKDD CoDS and 25th COMAD), Kolkata, India</i>. 
 
 
