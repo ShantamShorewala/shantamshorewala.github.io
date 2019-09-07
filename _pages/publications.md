@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<p align="justify">
+  
 * <b>[Under Review]</b> R. Krishnapuram, <b>S. Shorewala</b> and P. Rao. Link Speed Estimation for Traffic Flow Modelling Based
 on Video Feeds from Monocular Cameras. In <i>Proceedings of the IEEE Winter Conference on Applications of Computer
 Vision (WACV) 2020</i>.
@@ -26,4 +28,4 @@ Computer Vision 2020, Jaipur, India</i>.
 
 * <b>[Under Review]</b> P. Rao, <b>S. Shorewala</b>, A. Puri, N. Sharma, P. Singh, S. Srinivasan, A. Sharma and R. Krishnapuram. A Traffic Analytics Architecture and Dataset for Indian Roads Using a Monocular Surveillance Camera Network. In <i>ACM India Joint International Conference on Data Sciences and Management of Data (7th ACM iKDD CoDS and 25th COMAD), Kolkata, India</i>. 
 
-
+</p>
