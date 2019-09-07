@@ -1,5 +1,7 @@
 ---
-title: "Paper Title Number 2"
+title: "[Under Review] R. Krishnapuram, S. Shorewala and P. Rao. Link Speed Estimation for Traffic Flow Modelling Based
+on Video Feeds from Monocular Cameras. In <i>Proceedings of the IEEE Winter Conference on Applications of Computer
+Vision (WACV) 2020</i>."
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
