@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
+* [Under Review] R. Krishnapuram, <b>S. Shorewala</b> and P. Rao. Link Speed Estimation for Traffic Flow Modelling Based
+on Video Feeds from Monocular Cameras. In <i>Proceedings of the IEEE Winter Conference on Applications of Computer
+Vision (WACV) 2020</i>.
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
