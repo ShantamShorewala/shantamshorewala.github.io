@@ -19,7 +19,7 @@ author_profile: true
   
 * <b>[Under Review]</b> R. Krishnapuram, <b>S. Shorewala</b> and P. Rao. Link Speed Estimation for Traffic Flow Modelling Based
 on Video Feeds from Monocular Cameras. In <i>Proceedings of the IEEE Winter Conference on Applications of Computer
-Vision (WACV) 2020</i>.
+Vision (WACV) 2020, Colorado, USA</i>.
 
 </p>
 
