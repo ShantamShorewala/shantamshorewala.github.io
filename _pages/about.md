@@ -11,8 +11,8 @@ I am a robotics enthusiast currently working as a research associate at the Auto
 </p>
 
 Projects:
-  
-*Link Speed estimation
-*Target detection and tracking
+
+- Link Speed estimation
+- Target detection and tracking
 
 
