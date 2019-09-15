@@ -32,9 +32,10 @@ on Video Feeds from Monocular Cameras. In <i>Proceedings of the IEEE Winter Conf
 Vision (WACV) 2020, Colorado, USA</i>.
 </p>
 
+<p align="justify>
 
 * Current
   - Unsupervised image segmentation for precision agriculture
   - Autonomous calibration of mobile manipulators
 
-
+</p>
