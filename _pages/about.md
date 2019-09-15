@@ -44,7 +44,12 @@ function carousel() {
 
       </li>
   
-      <li> <p align="justify"> <b>Target detection and tracking</b>: As a part of the vision and machine learning team  at IISc for Mohammed Bin Zayed International Robotics Competition 2020, I worked on detecting and tracking a high-speed dynamic target (a ball suspended from an autonomous drone) for distances upto 20 m. </p> </li>
+      <li> <p align="justify"> <b>Target detection and tracking</b>: As a part of the vision and machine learning team  at IISc for Mohammed Bin Zayed International Robotics Competition 2020, I worked on detecting and tracking a high-speed dynamic target (a ball suspended from an autonomous drone) for distances upto 20 m. </p> 
+      
+      <div class="w3-content w3-section" style="max-width:500px" align="right"> 
+      <img class="mySlides w3-animate-fading" src="images/img115.jpg" style="width:100%" align="center">
+      </div>
+      </li>
 
     </ul>
   <li>Current</li>
