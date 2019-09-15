@@ -11,7 +11,7 @@ redirect_from:
 Website under work!
 
 <p align="justify">
-I am a robotics enthusiast currently working as a research associate at the Autonomous Robotics Laboratory, IIT Delhi. Within robotics, my research interests include computer vision, motion planning, artificial intelligence and autonomous systems. I graduated from Manipal Institute of Technology in 2019 with a B.Tech. in Electronics & Communication. Previously, I have worked as a research intern at the <a href="https://cps.iisc.ac.in/">RBCCPS Lab</a> at IISc, Bengaluru and also at <a href="http://robotics.iiitd.edu.in/coral/">[IIIT, Delhi]</a>. I also was the team lead of a robotics team, <a href="http://www.marsrovermanipal.com/">Mars Rover Manipal</a>, which develops Mars rover prototypes to compete at <a href="http://urc.marssociety.org/">University Rover Challenge</a>. 
+I am a robotics enthusiast currently working as a research associate at the Autonomous Robotics Laboratory, IIT Delhi. Within robotics, my research interests include computer vision, motion planning, artificial intelligence and autonomous systems. I graduated from Manipal Institute of Technology in 2019 with a B.Tech. in Electronics & Communication. Previously, I have worked as a research intern at the <a href="https://cps.iisc.ac.in/">RBCCPS Lab</a> at IISc, Bengaluru and also at <a href="http://robotics.iiitd.edu.in/coral/">IIIT, Delhi</a>. I also was the team lead of a robotics team, <a href="http://www.marsrovermanipal.com/">Mars Rover Manipal</a>, which develops Mars rover prototypes to compete at <a href="http://urc.marssociety.org/">University Rover Challenge</a>. 
 </p>
 
 Projects:
@@ -44,21 +44,49 @@ function carousel() {
 
       </li>
   
-      <li> <p align="justify"> <b>Target detection and tracking</b>: As a part of the vision and machine learning team  at IISc for Mohammed Bin Zayed International Robotics Competition 2020, I worked on detecting and tracking a high-speed dynamic target (a ball suspended from an autonomous drone) for distances upto 20 m. </p> 
+      <li> <p align="justify"> <b>Target detection and tracking</b>: As a part of the vision and machine learning team  at IISc for Mohammed Bin Zayed International Robotics Competition 2020, I worked on detecting and tracking a high-speed dynamic target (a ball suspended from an autonomous drone) for distances upto 20 m. The system used a Kalman filter to track the target, segmneted by color and shape features, continuosly at even larger distances from a monocular view.</p> 
       
       <div class="w3-content w3-section" style="max-width:500px" align="right"> 
       <img class="mySlides w3-animate-fading" src="images/img115.jpg" style="width:100%" align="center">
       </div>
       </li>
+       
+      <li><p><b>Mars Rover Manipal</b>: Competing at the University Rover Challenge 2018, led a team of 23 undergraduatre students to develop a Mars rover prototype. Our rover had a 6-DoF robotic manipulator which could be teleoperated from a remote base station. The rover was also capable of autonomous traversal in extreme terrain relying on GPS, IMU and a vision system. We have established ourselves as the leading Asian team in this competition over the last few years in face of exceptional competiton. You can see some of the rovers developed by our team <a href="https://www.youtube.com/channel/UCFDob5Vn5xccQ1T3_cnt8CA">here</a>. 
+      
+<div class="w3-content w3-section" style="max-width:500px" align="right"> 
+  <img class="mySlides w3-animate-fading" src="images/intro-bg.jpg" style="width:100%" align="center">
+  <img class="mySlides w3-animate-fading" src="images/speed_example_2-min.png" style="width:100%" align="center">
+</div>
 
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 9000);    
+}
+</script>
+      </p>
+      </li>
+      
     </ul>
   <li>Current</li>
+  
+  <ul style="list-style-type:circle;">
+    <li> Unsupervised image segmentation for precision agriculture </li>
+    <li> Autonomous calibration of mobile manipulators </li>
+  </ul> 
+  
 </ul> 
 
-<p align="justify>
 
-* Current
-  - Unsupervised image segmentation for precision agriculture
-  - Autonomous calibration of mobile manipulators
 
-</p>
+  
