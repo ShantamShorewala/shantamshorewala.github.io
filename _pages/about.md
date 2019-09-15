@@ -46,7 +46,7 @@ function carousel() {
   
       <li> <p align="justify"> <b>Target detection and tracking</b>: As a part of the vision and machine learning team  at IISc for Mohammed Bin Zayed International Robotics Competition 2020, I worked on detecting and tracking a high-speed dynamic target (a ball suspended from an autonomous drone) for distances upto 20 m. The system used a Kalman filter to track the target, segmneted by color and shape features, continuosly at even larger distances from a monocular view.</p> 
       
-      <img src="images/img115.jpg" style="width:100%" align="center">
+      <img src="images/img115.jpg" style="width:60% height:60%" align="center">
       
       </li>
 
