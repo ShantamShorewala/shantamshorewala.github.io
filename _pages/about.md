@@ -20,9 +20,8 @@ Projects:
     <ul style="list-style-type:circle;">
       <li> <p align="justify"> <b>Link Speed estimation</b> : KThe aim was to develop an algorithm to estimate link speeds from a calibrated monocular camera. Our approach leveraged deep learning for tracking a specific class of vehicles popular on Indian roads (autorickshaws) and detecting specific keypoints on the tracked vehicles. The 2D keypoints in the image, complemented by a 3D model of the vehicle, were used to compute the pose of the vehicle in multiple frames. Using the computed pose, we were able to estimate individual vehicle speeds which were averaged to get link speeds. This work was included in a pilot deployment in Bengaluru, India. </p>
 
-<p align="right">
 <div class="w3-content w3-section" style="max-width:500px" align="right"> 
-  <img class="mySlides w3-animate-fading" src="images/index.png" style="width:100%">
+  <img class="mySlides w3-animate-fading" src="images/index.png" style="width:100%" align="center">
 </div>
 
 <script>
@@ -42,7 +41,7 @@ function carousel() {
 }
 </script>
 
-      </p></li>
+      </li>
   
       <li> <p align="justify"> <b>Target detection and tracking</b>: As a part of the vision and machine learning team  at IISc for Mohammed Bin Zayed International Robotics Competition 2020, I worked on detecting and tracking a high-speed dynamic target (a ball suspended from an autonomous drone) for distances upto 20 m. </p> </li>
 
