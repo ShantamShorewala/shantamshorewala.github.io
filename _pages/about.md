@@ -21,8 +21,8 @@ Projects:
       <li> <p align="justify"> <b>Link Speed estimation</b> : The aim was to develop an algorithm to estimate link speeds from a calibrated monocular camera. Our approach leveraged deep learning for tracking a specific class of vehicles popular on Indian roads (autorickshaws) and detecting specific keypoints on the tracked vehicles. The 2D keypoints in the image, complemented by a 3D model of the vehicle, were used to compute the pose of the vehicle in multiple frames. Using the computed pose, we were able to estimate individual vehicle speeds which were averaged to get link speeds. This work was included in a pilot deployment in Bengaluru, India. </p>
 
 <div class="w3-content w3-section" style="max-width:500px" align="right"> 
-  <img class="mySlides w3-animate-fading" src="images/example_speed-min.png" style="width:100%" align="center">
-  <img class="mySlides w3-animate-fading" src="images/speed_example_2-min.png" style="width:100%" align="center">
+  <img class="mySlides1 w3-animate-fading" src="images/example_speed-min.png" style="width:100%" align="center">
+  <img class="mySlides1 w3-animate-fading" src="images/speed_example_2-min.png" style="width:100%" align="center">
 </div>
 
 <script>
@@ -31,7 +31,7 @@ carousel();
 
 function carousel() {
   var i;
-  var x = document.getElementsByClassName("mySlides");
+  var x = document.getElementsByClassName("mySlides1");
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
@@ -74,13 +74,15 @@ function carousel_2() {
 </script>
       </p>
       </li>
-      
+    <li> <p><b>Aerial Image Semegnetion for Precision Agriculture</b></p>
+    </li>
     </ul>
+    
   <li>Current</li>
   
   <ul style="list-style-type:circle;">
-    <li> Unsupervised image segmentation for precision agriculture </li>
-    <li> Autonomous calibration of mobile manipulators </li>
+    <li> Unsupervised Image Segmentation for Precision Agriculture </li>
+    <li> Autonomous Calibration of Mobile Manipulators </li>
   </ul> 
   
 </ul> 
