@@ -14,17 +14,18 @@ Website under work!
 I am a robotics enthusiast currently working as a research associate at the Autonomous Robotics Laboratory, IIT Delhi. Within robotics, my research interests include computer vision, motion planning, artificial intelligence and autonomous systems. I graduated from Manipal Institute of Technology in 2019 with a B.Tech. in Electronics & Communication. Previously, I have worked as a research intern at the <a href="https://cps.iisc.ac.in/">RBCCPS Lab</a> at IISc, Bengaluru and also at <a href="http://robotics.iiitd.edu.in/coral/">[IIIT, Delhi]</a>. I also was the team lead of a robotics team, <a href="http://www.marsrovermanipal.com/">Mars Rover Manipal</a>, which develops Mars rover prototypes to compete at <a href="http://urc.marssociety.org/">University Rover Challenge</a>. 
 
 </p>
-  
-<p>
+
 Projects:
-
-* Past
-
-  - Link Speed estimation : The aim was to develop an algorithm to estimate link speeds from a calibrated monocular camera. Our approach leveraged deep learning for tracking a specific class of vehicles popular on Indian roads (autorickshaws) and detecting specific keypoints on the tracked vehicles. The 2D keypoints in the image, complemented by a 3D model of the vehicle, were used to compute the pose of the vehicle in multiple frames. Using the computed pose, we were able to estimate individual vehicle speeds which were averaged to get link speeds. This work was included in a pilot deployment in Bengaluru, India.
+ <ul style="list-style-type:disc;">
+  <li>Past</li>
+    <ul style="list-style-type:circle;">
+      <li> Link Speed estimation : The aim was to develop an algorithm to estimate link speeds from a calibrated monocular camera. Our approach leveraged deep learning for tracking a specific class of vehicles popular on Indian roads (autorickshaws) and detecting specific keypoints on the tracked vehicles. The 2D keypoints in the image, complemented by a 3D model of the vehicle, were used to compute the pose of the vehicle in multiple frames. Using the computed pose, we were able to estimate individual vehicle speeds which were averaged to get link speeds. This work was included in a pilot deployment in Bengaluru, India. </li>
   
-  - Target detection and tracking: As a part of the vision and machine learning team  at IISc for Mohammed Bin Zayed International Robotics Competition 2020, I worked on detecting and tracking a high-speed dynamic target (a ball suspended from an autonomous drone) for distances upto 20 m.
+      <li> Target detection and tracking: As a part of the vision and machine learning team  at IISc for Mohammed Bin Zayed International Robotics Competition 2020, I worked on detecting and tracking a high-speed dynamic target (a ball suspended from an autonomous drone) for distances upto 20 m. </li>
 
-</p>
+    </ul>
+  <li>Current</li>
+</ul> 
 
 
 <p align="justify">
