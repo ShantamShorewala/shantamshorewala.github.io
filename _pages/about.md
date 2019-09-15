@@ -46,23 +46,21 @@ function carousel() {
   
       <li> <p align="justify"> <b>Target detection and tracking</b>: As a part of the vision and machine learning team  at IISc for Mohammed Bin Zayed International Robotics Competition 2020, I worked on detecting and tracking a high-speed dynamic target (a ball suspended from an autonomous drone) for distances upto 20 m. The system used a Kalman filter to track the target, segmneted by color and shape features, continuosly at even larger distances from a monocular view.</p> 
       
-      <div class="w3-content w3-section" style="max-width:500px" align="right"> 
-      <img class="mySlides w3-animate-fading" src="images/img115.jpg" style="width:100%" align="center">
-      </div>
+      <img src="images/img115.jpg" style="width:100%" align="center">
+      
       </li>
-       
+
       <li><p><b>Mars Rover Manipal</b>: Competing at the University Rover Challenge 2018, led a team of 23 undergraduatre students to develop a Mars rover prototype. Our rover had a 6-DoF robotic manipulator which could be teleoperated from a remote base station. The rover was also capable of autonomous traversal in extreme terrain relying on GPS, IMU and a vision system. We have established ourselves as the leading Asian team in this competition over the last few years in face of exceptional competiton. You can see some of the rovers developed by our team <a href="https://www.youtube.com/channel/UCFDob5Vn5xccQ1T3_cnt8CA">here</a>. 
       
 <div class="w3-content w3-section" style="max-width:500px" align="right"> 
   <img class="mySlides w3-animate-fading" src="images/intro-bg.jpg" style="width:100%" align="center">
-  <img class="mySlides w3-animate-fading" src="images/speed_example_2-min.png" style="width:100%" align="center">
 </div>
 
 <script>
 var myIndex = 0;
-carousel();
+carousel_2();
 
-function carousel() {
+function carousel_2() {
   var i;
   var x = document.getElementsByClassName("mySlides");
   for (i = 0; i < x.length; i++) {
