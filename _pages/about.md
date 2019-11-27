@@ -47,7 +47,7 @@ function carousel() {
       
       </li>
 
-      <li><p><b>Mars Rover Manipal</b>: Competing at the University Rover Challenge 2018, led a team of 23 undergraduatre students to develop a Mars rover prototype. Our rover had a 6-DoF robotic manipulator which could be teleoperated from a remote base station. The rover was also capable of autonomous traversal in extreme terrain relying on GPS, IMU and a vision system. We have established ourselves as the leading Asian team in this competition over the last few years in face of exceptional competiton. You can see some of the rovers developed by our team <a href="https://www.youtube.com/channel/UCFDob5Vn5xccQ1T3_cnt8CA">here</a>. 
+      <li><p align="justify"><b>Mars Rover Manipal</b>: Competing at the University Rover Challenge 2018, led a team of 23 undergraduatre students to develop a Mars rover prototype. Our rover had a 6-DoF robotic manipulator which could be teleoperated from a remote base station. The rover was also capable of autonomous traversal in extreme terrain relying on GPS, IMU and a vision system. We have established ourselves as the leading Asian team in this competition over the last few years in face of exceptional competiton. You can see some of the rovers developed by our team <a href="https://www.youtube.com/channel/UCFDob5Vn5xccQ1T3_cnt8CA">here</a>. 
       
 <div class="w3-content w3-section" style="max-width:500px" align="right"> 
   <img class="mySlides w3-animate-fading" src="images/intro-bg.jpg" style="width:100%" align="center">
