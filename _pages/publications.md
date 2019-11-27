@@ -27,6 +27,6 @@ Vision (WACV) 2020, Colorado, USA</i>.
 </p>
 
 <p align="justify">
-* <b>[Poster Presentation only] <\b> D.K. Rajamani, E.D. Pitchika, K.S. Dhankar, <b> S. Shorewala<\b>, D. Bansal and Y.S. Upadhyaya.Design Overview of a Planetary Exploration Rover for Unstructured Terrain. In <i> 3rd International and 18th National Conference on Machines & Mechanisms 2017, India <\i>.
+* <b>[Poster Presentation only] </b> D.K. Rajamani, E.D. Pitchika, K.S. Dhankar, <b> S. Shorewala</b>, D. Bansal and Y.S. Upadhyaya.Design Overview of a Planetary Exploration Rover for Unstructured Terrain. In <i> 3rd International and 18th National Conference on Machines & Mechanisms 2017, India </i>.
 </p>
 
