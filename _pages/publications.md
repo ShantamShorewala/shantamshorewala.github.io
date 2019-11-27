@@ -23,7 +23,7 @@ Vision (WACV) 2020, Colorado, USA</i>.
 
 
 <p align="justify">
-  * <b>[Under Review]</b> <b> S. Shorewala </b>, A. Kumar, A. Garg, H. Kothari, T. Singla, E. Suriya, N.K. Vernekar and Y.S. Upadhyaya. GPS-based autonomous navigation in extreme outdoor environments. In <i> Intelligent Service Robotics (2019). <\i>
+  * <b>[Under Review]</b> <b> S. Shorewala </b>, A. Kumar, A. Garg, H. Kothari, T. Singla, E. Suriya, N.K. Vernekar and Y.S. Upadhyaya. GPS-based autonomous navigation in extreme outdoor environments. In <i> Intelligent Service Robotics (2019). </i>
 </p>
 
 <p align="justify">
