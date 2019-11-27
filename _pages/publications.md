@@ -23,12 +23,10 @@ Vision (WACV) 2020, Colorado, USA</i>.
 
 
 <p align="justify">
-* <b>[Under Review]</b> P. Rao, <b>S. Shorewala</b>, A. Puri, N. Sharma, P. Singh, S. Srinivasan, A. Sharma and R. Krishnapuram. A Traffic Analytics Architecture and Dataset for Indian Roads Using a Monocular Surveillance Camera Network. In <i>ACM India Joint International Conference on Data Sciences and Management of Data (7th ACM iKDD CoDS and 25th COMAD), Kolkata, India</i>. 
+  * <b>[Under Review]</b> <b> S. Shorewala </b>, A. Kumar, A. Garg, H. Kothari, T. Singla, E. Suriya, N.K. Vernekar and Y.S. Upadhyaya. GPS-based autonomous navigation in extreme outdoor environments. In <i> Intelligent Service Robotics (2019). <\i>
 </p>
 
 <p align="justify">
-* <b>[Under Review] S. Shorewala</b>, A. Garg, A. Kumar, H. Kothari, E. S. Viswanath and T. Singla. GPS-based Autonomous
-Navigation System for Exploratory Rovers. In <i>International Conference on Innovations in Computational Intelligence and
-Computer Vision 2020, Jaipur, India</i>. 
+* <b>[Poster Presentation only] <\b> D.K. Rajamani, E.D. Pitchika, K.S. Dhankar, <b> S. Shorewala<\b>, D. Bansal and Y.S. Upadhyaya.Design Overview of a Planetary Exploration Rover for Unstructured Terrain. In <i> 3rd International and 18th National Conference on Machines & Mechanisms 2017, India <\i>.
 </p>
 
