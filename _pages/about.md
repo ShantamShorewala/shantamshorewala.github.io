@@ -71,16 +71,17 @@ function carousel_2() {
 </script>
       </p>
       </li>
-    <li> <p><b>Aerial Image Segmentation for Precision Agriculture</b></p>
+      
+      <li><p align="justify"><b>Aerial Image Segmentation for Precision Agriculture</b>: Implemented multiple supervised deep learning models to segment aerial images to identify crop and weed plants. Worked with multispectral images such as NIR, NDVI and RGB. The work done was completed as a part of my summer internship at IIIT, Delhi. </p>
     </li>
     </ul>
     
   <li>Current</li>
   
   <ul style="list-style-type:circle;">
-    <li> Unsupervised Image Segmentation for Precision Agriculture </li>
-    <li> Autonomous Calibration of Mobile Manipulators </li>
-  </ul> 
+    <li><p align="justify"><b> Semi-supervised Image Segmentation for Precision Agriculture </b> : My previous work on supervised learning for aerial image segmentation required large amounts of labelled data for training the models. Since there are a large number of crop and weed plants species, I am working on a semi-supervised approach to the problem to reduce the dependency on data for each new crop/weed plant. The objective is to build a pipeline that can quickly adapt to new plant species without the need for a large amount of labelled masks as ground truth so as to further advance the feasibility of precision agriculture. </p> </li>
+  
+    <li><p align="justify"><b> Autonomous Calibration of Mobile Manipulators </b> : Robotic manipulators are used significantly in assembly lines. However, these manipulators are stationary and inherently more accurate as compared to mobile manipulators. Since, mobile manipulation has the potential to further aid a variety of tasks as compared to  the scope of a stationary manipulator, we are working to develop an approach to self-calibrate these robots to achieve higher accuracy. </p> </li> </ul> 
   
 </ul> 
 
