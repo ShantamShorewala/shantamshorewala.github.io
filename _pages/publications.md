@@ -16,14 +16,18 @@ author_profile: true
 {% endfor %}
 
 <p align="justify">
-* <b>[Under Review]</b> R. Krishnapuram, <b>S. Shorewala</b> and P. Rao. Link Speed Estimation for Traffic Flow Modelling Based
-on Video Feeds from Monocular Cameras. In <i>Proceedings of the IEEE Winter Conference on Applications of Computer
-Vision (WACV) 2020, Colorado, USA</i>.
+* <b>[Under Review] S. Shorewala </b>, R. Safin, T. Tsoy, S. Chaudhary, C. Arora, S. D. Roy, E. Magid and S. K. Saha.
+Self-calibration of mobile manipulators using an on-board monocular camera. In <i>IEEE/RSJ International Conference on
+Intelligent Systems and Robotics (IROS) 2020</i>.
+</p>
+
+<p align="justify">
+* <b>[Under Review]</b> R. Krishnapuram, <b>S. Shorewala</b> and P. Rao. Link Speed Estimation for Traffic Flow Modelling Based on Video Feeds from Monocular Cameras. In <i>2020 IEEE Intelligent Transportation Systems Conference (ITSC)</i>.
 </p>
 
 
 <p align="justify">
-  * <b>[Under Review]</b> <b> S. Shorewala </b>, A. Kumar, A. Garg, H. Kothari, T. Singla, E. Suriya, N.K. Vernekar and Y.S. Upadhyaya. GPS-based autonomous navigation in extreme outdoor environments. In <i> Intelligent Service Robotics (2019). </i>
+* <b>[Under Review]</b> <b> S. Shorewala </b>, A. Kumar, A. Garg, H. Kothari, T. Singla, E. Suriya, N.K. Vernekar and Y.S. Upadhyaya. GPS-based autonomous navigation in extreme outdoor environments. In <i> Intelligent Service Robotics. </i>
 </p>
 
 <p align="justify">
