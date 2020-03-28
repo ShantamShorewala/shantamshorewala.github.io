@@ -27,7 +27,7 @@ Intelligent Systems and Robotics (IROS) 2020</i>.
 
 
 <p align="justify">
-* <b>[Under Review]</b> <b> S. Shorewala </b>, A. Kumar, A. Garg, H. Kothari, T. Singla, E. Suriya, N.K. Vernekar and Y.S. Upadhyaya. GPS-based autonomous navigation in extreme outdoor environments. In <i> Intelligent Service Robotics. </i>
+* <b>[Under Review]</b> S. Chawla, H. Chopra, <b>S. Shorewala</b>, S. Chaudhary, R. Agarwal and S. K. Saha. Self-Calibration of Mobile Robots Odometry using on-board LIDAR. In <i> IEEE Robotics & Automation Letters (RA-L)</i>.
 </p>
 
 <p align="justify">
