@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 <p align="justify">
-* <b>[Under Review] S. Shorewala </b>, R. Safin, T. Tsoy, S. Chaudhary, C. Arora, S. D. Roy, E. Magid and S. K. Saha.
+* <b>[Under Review] S. Shorewala</b>, R. Safin, T. Tsoy, S. Chaudhary, C. Arora, S. D. Roy, E. Magid and S. K. Saha.
 Self-calibration of mobile manipulators using an on-board monocular camera. In <i>IEEE/RSJ International Conference on
 Intelligent Systems and Robotics (IROS) 2020</i>.
 </p>
