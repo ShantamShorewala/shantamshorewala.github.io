@@ -27,7 +27,7 @@ Intelligent Systems and Robotics (IROS) 2020</i>.
 
 
 <p align="justify">
-* <b>[Under Review]</b> S. Chawla, H. Chopra, <b>S. Shorewala</b>, S. Chaudhary, R. Agarwal and S. K. Saha. Self-Calibration of Mobile Robots Odometry using on-board LIDAR. In <i> IEEE Robotics & Automation Letters (RA-L)</i>.
+* <b>[Under Review]</b> S. Chawla, H. Chopra, <b>S. Shorewala</b>, S. Chaudhary, R. Agarwal and S. K. Saha. Self-Calibration of Mobile Robots Odometry using on-board LIDAR. In <i> IEEE International Conference on Automation Science and Engineering (CASE) 2020 </i>.
 </p>
 
 <p align="justify">
