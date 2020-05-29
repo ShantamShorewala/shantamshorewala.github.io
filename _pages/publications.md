@@ -16,15 +16,20 @@ author_profile: true
 {% endfor %}
 
 <p align="justify">
+
+<p align="justify">
+* <b>[Accepted]</b> R. Krishnapuram, <b>S. Shorewala</b> and P. Rao. Link Speed Estimation for Traffic Flow Modelling Based on Video Feeds from Monocular Cameras. In <i>IEEE Intelligent Transportation Systems Conference (ITSC), 2020</i>.
+</p>
+
+<p align="justify">
+* <b>[Under Review] S. Shorewala</b>, A. Ashfaque, Sidharth R. and U. Verma. Weed Density and Distribution Estimation for Precision Agriculture using Semi-Supervised Learning. In <i> Computers and Electronics in Agriculture</i>.
+</p>
+
+<p align="justify">
 * <b>[Under Review] S. Shorewala</b>, R. Safin, T. Tsoy, S. Chaudhary, C. Arora, S. D. Roy, E. Magid and S. K. Saha.
 Self-calibration of mobile manipulators using an on-board monocular camera. In <i>IEEE/RSJ International Conference on
 Intelligent Systems and Robotics (IROS) 2020</i>.
 </p>
-
-<p align="justify">
-* <b>[Under Review]</b> R. Krishnapuram, <b>S. Shorewala</b> and P. Rao. Link Speed Estimation for Traffic Flow Modelling Based on Video Feeds from Monocular Cameras. In <i>2020 IEEE Intelligent Transportation Systems Conference (ITSC)</i>.
-</p>
-
 
 <p align="justify">
 * <b>[Under Review]</b> S. Chawla, H. Chopra, <b>S. Shorewala</b>, S. Chaudhary, R. Agarwal and S. K. Saha. Self-Calibration of Mobile Robots Odometry using on-board LIDAR. In <i> IEEE International Conference on Automation Science and Engineering (CASE) 2020 </i>.
