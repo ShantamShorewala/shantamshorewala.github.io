@@ -26,12 +26,6 @@ author_profile: true
 </p>
 
 <p align="justify">
-* <b>[Under Review] S. Shorewala</b>, R. Safin, T. Tsoy, S. Chaudhary, C. Arora, S. D. Roy, E. Magid and S. K. Saha.
-Self-calibration of mobile manipulators using an on-board monocular camera. In <i>IEEE/RSJ International Conference on
-Intelligent Systems and Robotics (IROS) 2020</i>.
-</p>
-
-<p align="justify">
 * <b>[Poster Presentation only] </b> D.K. Rajamani, E.D. Pitchika, K.S. Dhankar, <b> S. Shorewala</b>, D. Bansal and Y.S. Upadhyaya. Design Overview of a Planetary Exploration Rover for Unstructured Terrain. In <i> 3rd International and 18th National Conference on Machines & Mechanisms 2017, India </i>.
 </p>
 
